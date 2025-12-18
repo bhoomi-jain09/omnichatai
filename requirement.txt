@@ -1,0 +1,7 @@
+streamlit
+langchain
+langgraph>=0.0.40
+langchain-groq
+python-dotenv
+sqlite3-binary
+langchain_core
